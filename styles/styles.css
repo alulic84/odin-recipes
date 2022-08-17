@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  background-color: rgb(31, 29, 27);
+  width: 50%;
+  margin: 0px auto;
+}
+
+h1, h2, h3, a {
+  color: #77af77;
+}
+
+p, li {
+  color: rgb(236, 230, 230);
+  padding: 0.25em;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
+
+.home-button {
+  padding-bottom: 3em;
+}
